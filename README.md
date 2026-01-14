@@ -1,6 +1,6 @@
 👩🏻‍💻 Ícaro Viccario
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor iniciante`**
 
 Ola me chamo Ícaro Viccario, tenho 19 anos e sou natural do interior de SP. Atualmente, estou cursando Engenharia de computação na Unisagrado. Sou amo tecnologia e compartilho meu conhecimento através da minha conta profissional do instagram "[icarvv.eng](https://www.instagram.com/icarvv.eng/)", falo sobre tecnologia e um pouco sobre servidores.
 
